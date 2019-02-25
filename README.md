@@ -14,7 +14,7 @@
    The files and when they were last edited:
 
    * `my code\` (early 2014s)
-       * `Eng to Code.docx` (2/4/2014)
+       * `Eng to Code.docx` (2/4/2014) ... not sure why I felt the need to put code in a word doc :/ 
        * `MY code` (12/4/2014)
 
    * `working projects\` (mid 2014s)
